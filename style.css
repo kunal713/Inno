@@ -1,0 +1,28 @@
+body
+{
+	background-color: #99CCFF;
+}
+
+.header
+{
+	margin-top: 1.15%;
+	overflow: hidden;
+	color : #E60000;
+	text-align: center;
+	font-size: 2.5em;
+	font-family: Verdana;
+	text-decoration: underline;
+}
+
+.carousel-caption
+{
+	color : white;
+	text-align: center;
+	font-size: 2em;
+	font-family: Helvetica;
+}
+
+.carousel-caption:hover
+{
+	color: #F8EC07;
+}
